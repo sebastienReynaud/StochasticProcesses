@@ -1,0 +1,5 @@
+Installing library in C:\Users\sreynaud\Documents\GitHub\StochasticProcesses\.cabal-sandbox\x86_64-windows-ghc-8.4.3\split-0.2.3.3-3fFb67BrTpqAjKImK4FBjR
+ls.hs, dist\dist-sandbox-7e9088f0\build\Data\List\Split\Internals.o )
+[2 of 2] Compiling Data.List.Split  ( src\Data\List\Split.hs, dist\dist-sandbox-7e9088f0\build\Data\List\Split.o )
+ignoring (possibly broken) abi-depends field for packages
+cabal: Leaving directory 'C:\Users\sreynaud\AppData\Local\Temp\cabal-tmp-18218\split-0.2.3.3'
